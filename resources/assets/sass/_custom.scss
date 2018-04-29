@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Patua+One);
+
+#header{
+    font-family: 'Patua One';
+    display: inline-block;
+    padding-top: 0.32rem;
+    padding-bottom: 0.32rem;
+    margin-right: 1rem;
+    font-size: 1.125rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+#footer {
+    margin-top: 30px;
+    padding:30px;
+    color:#fff;
+    background:#333;
+}
+
+#navi {
+    background-color:#333;
+}
+
+#jumbo {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background: url("/header.png");
+    border-radius: 0.3rem;
+}
+
