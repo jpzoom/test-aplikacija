@@ -1,2 +1,2 @@
 #myapp
-Ignore this, it's useless
+Ignore this
